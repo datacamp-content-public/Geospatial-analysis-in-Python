@@ -1,10 +1,10 @@
 ---
-  title: "Chapter 1: Introduction to open source Geospatial Python libraries"
+  title: "Chapter 1: Introduction"
   description: "Test"
   v2: true
 
 ---
-## Introduction
+## Welcome
 
 ```yaml
 type: NormalExercise
@@ -76,6 +76,38 @@ type: NormalExercise
 xp: 100
 
 key: 1f8abeb6a8
+
+
+
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Open source Python libraries for Geospatial analysis
+
+```yaml
+type: NormalExercise
+
+xp: 100
+
+key: 53003ce705
 
 
 
